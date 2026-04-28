@@ -5,7 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 
 function App() {
- console.log("git upstream test");
+ console.log("changes to test 3 branch");
 }
 
 export default App
